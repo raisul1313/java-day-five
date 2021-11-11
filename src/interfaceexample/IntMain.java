@@ -1,7 +1,5 @@
 package interfaceexample;
 
-import javafx.scene.AccessibleAttribute;
-
 public class IntMain {
 
     public static void main(String[] args) {
